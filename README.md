@@ -97,3 +97,14 @@ Then I registered for the webgoat using the [Link](http://localhost:8080/WebGoat
 
 I had some difficulty finding the magic number at first. Tried google/duckduckgo but nothing helped then i just randomly searched for magic number in the inpect bar and found it at last. The magic number for me was 20 , I found one of the article online where the magic number was 40. So, i guess we users have different magic numbers. 
 
+_ **General: Developer tools**
+
+<img width="596" alt="dev tools function" src="https://user-images.githubusercontent.com/102954934/214176371-37908337-5518-4972-982e-80487c0c44a2.png">
+
+As an ex-javascript student this was fairly easy and understandable for me. I had no trouble with this part.
+
+<img width="599" alt="dev tools last" src="https://user-images.githubusercontent.com/102954934/214176560-8333b200-acd6-4c65-b351-50686ac8af24.png">
+
+After figuring out the magic number this was a piece of cake for me. But i found something intersting, I tried findind the value without actually pressing the go button and the value i got was `foo` but when i press the button then the value to changed to `numbers`.
+
+I am pretty excited about the course. It is interesting and fun. 
