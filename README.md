@@ -60,10 +60,33 @@ Here I first used `ls` to list all the files. This one was quite tricky as the f
 
 <img width="371" alt="2 pw" src="https://user-images.githubusercontent.com/102954934/214166778-06cda870-0c18-4d1a-ab88-b2456a6e94b7.png">
 
-This one was fairly easy one, atleast for me. Just had to used / in the above shown manner.
+This one was fairly easy one, atleast for me. Just had to used `\` in the above shown manner.
 
 *level 3 password:*
 
 <img width="281" alt="pw3" src="https://user-images.githubusercontent.com/102954934/214171270-4ca0305e-3d95-4530-960e-2ae85c21a019.png">
 
+For this level, first I had to change the directory and inside the directory open the .hiddenfile using `cat .hiddenfile` command.
 
+*level 4 password:*
+
+
+<img width="292" alt="pw4" src="https://user-images.githubusercontent.com/102954934/214171709-5bd9ce89-de2d-4a77-b1c4-fbd64d671c62.png">
+
+
+<img width="268" alt="pw4 2" src="https://user-images.githubusercontent.com/102954934/214171723-5072db75-291e-428a-8cab-0be321cefcb6.png">
+
+Not gonna lie, this one was troublesome. It took me sometime to figure this out. I had to figure out which file was the only human-readable file. After I found out I used the similar command `cat ./-file07` to figure out the password for next level.
+
+## B) Bullseye: Install Debian 11-Bullseye virtual machine in VirtualBox.
+
+This task went smoothly, I did not really have any trouble with the installation except tht fact that i could not find any install button. After 5 min of punching some random keys and moving the mouse in a crazy way, I figured out that I just had to drag it abit above then only i found the install button. Other than that, it was ok.
+
+## C) WebGoat: Install WebGoat.
+
+Inorder to install the webgoat I used the [Material](https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/) provided by Tero Karvinen.
+After that I downloaded and ran it using the commands `wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar` & `java -jar webgoat-server-8.0.0.M26.jar` respectively.
+
+Then I registered for the webgoat using the [Link](http://localhost:8080/WebGoat/)
+
+## D) 
