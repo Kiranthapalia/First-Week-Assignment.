@@ -89,4 +89,11 @@ After that I downloaded and ran it using the commands `wget https://terokarvinen
 
 Then I registered for the webgoat using the [Link](http://localhost:8080/WebGoat/)
 
-## D) 
+## D) Hacker warmup: Solve these tasks on WebGoat.
+
+- **General: HTTP Basics**
+- 
+- <img width="320" alt="magic number" src="https://user-images.githubusercontent.com/102954934/214175724-76a29909-ef44-4e47-b782-15e048d69f89.png">
+
+I had some difficulty finding the magic number at first. Tried google/duckduckgo but nothing helped then i just randomly searched for magic number in the inpect bar and found it at last. The magic number for me was 20 , I found one of the article online where the magic number was 40. So, i guess we users have different magic numbers. 
+
