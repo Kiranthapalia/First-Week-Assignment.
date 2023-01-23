@@ -1,6 +1,6 @@
 # H1 First week exercises.
 
-**1**
+## 1
 
 A summary of the given topic.
 
@@ -22,9 +22,23 @@ A summary of the given topic.
 - Nobody can ensure 100% safety. But we can always lessen the damage.
 - Is there ever going to be a moment when information is completely safe?
 
-**2**
+## 2
 
 **Karvinen 2020: Command Line Basics Revisited**
 
 This was a fairly nice review read because I just finished my server technologies course, where we had to use the same commands in the Ubuntu server. I did discover some new commands that were useful.
+
+
+## A) Bandit oh-five.
+
+Our task was to solve level 0-4.(Mandatory) in the [Over The Wire Games](https://overthewire.org/wargames/bandit/bandit0.html)
+
+*For the first level*
+
+First i installed the ssh server using the command 
+
+``` sudo apt install openssh-server ```
+
+then I used the command `ssh bandit0@bandit.labs.overthewire.org -p 2220`to connect.
+
 
