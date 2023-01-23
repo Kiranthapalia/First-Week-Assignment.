@@ -37,12 +37,12 @@ First i installed the ssh server using the command
 
 ``` sudo apt install openssh-server ```
 
-then I used the command `ssh bandit0@bandit.labs.overthewire.org -p 2220`to connect.
+then I used the command `ssh bandit0@bandit.labs.overthewire.org -p 2220`to connect, `-p` here refers to the port number. 
 
 
 <img width="584" alt="band0" src="https://user-images.githubusercontent.com/102954934/214156949-ffb1c0bf-703c-4ee3-9685-3a1d934ad3f8.png">
 
-We can see the image above that shows the mainpage. After completing the first level we must exit inorder to continue to the next one. So, continuing to lvl 1 I connected with the same command that i used before `ssh bandit0@bandit.labs.overthewire.org -p 2220` but instead of bandit0 I used bandit1.
+We can see the image above that shows the mainpage. After completing the first level we must exit inorder to continue to the next one. So, continuing to lvl 1 I connected with the same command that i used before `ssh bandit0@bandit.labs.overthewire.org -p 2220` but instead of bandit0 I used bandit1 and it was pretty much same with bandit3 and bandit4, just had to exit after every successful connection.
 
 *level 0 password:*
 
@@ -54,4 +54,4 @@ Here I used `cat` to find out the password.
 
 <img width="311" alt="1 pw" src="https://user-images.githubusercontent.com/102954934/214165425-6b6a38ae-8242-425d-a25a-30707788f266.png">
 
-Here I first used `ls` to list all the files. This one was quite tricky as the file name was `-`
+Here I first used `ls` to list all the files. This one was quite tricky as the file name was `-` so I could not just use `cat -`. I tried doing that and it did not work. So then after some research I found out I had to use `cat ./-` command inorder to access the password for the next level.
