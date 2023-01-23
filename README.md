@@ -55,3 +55,15 @@ Here I used `cat` to find out the password.
 <img width="311" alt="1 pw" src="https://user-images.githubusercontent.com/102954934/214165425-6b6a38ae-8242-425d-a25a-30707788f266.png">
 
 Here I first used `ls` to list all the files. This one was quite tricky as the file name was `-` so I could not just use `cat -`. I tried doing that and it did not work. So then after some research I found out I had to use `cat ./-` command inorder to access the password for the next level.
+
+*level 2 password:*
+
+<img width="371" alt="2 pw" src="https://user-images.githubusercontent.com/102954934/214166778-06cda870-0c18-4d1a-ab88-b2456a6e94b7.png">
+
+This one was fairly easy one, atleast for me. Just had to used / in the above shown manner.
+
+*level 3 password:*
+
+<img width="281" alt="pw3" src="https://user-images.githubusercontent.com/102954934/214171270-4ca0305e-3d95-4530-960e-2ae85c21a019.png">
+
+
