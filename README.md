@@ -33,8 +33,6 @@ This was a fairly nice review read because I just finished my server technologie
 
 Our task was to solve level 0-4.(Mandatory) in the [Over The Wire Games](https://overthewire.org/wargames/bandit/bandit0.html)
 
-*For the first level*
-
 First i installed the ssh server using the command 
 
 ``` sudo apt install openssh-server ```
@@ -42,3 +40,18 @@ First i installed the ssh server using the command
 then I used the command `ssh bandit0@bandit.labs.overthewire.org -p 2220`to connect.
 
 
+<img width="584" alt="band0" src="https://user-images.githubusercontent.com/102954934/214156949-ffb1c0bf-703c-4ee3-9685-3a1d934ad3f8.png">
+
+We can see the image above that shows the mainpage. After completing the first level we must exit inorder to continue to the next one. So, continuing to lvl 1 I connected with the same command that i used before `ssh bandit0@bandit.labs.overthewire.org -p 2220` but instead of bandit0 I used bandit1.
+
+*level 0 password:*
+
+<img width="262" alt="band0pw" src="https://user-images.githubusercontent.com/102954934/214163918-8665eb0a-46f4-437f-bfba-46d4407dee91.png">
+
+Here I used `cat` to find out the password.
+
+*level 1 password:*
+
+<img width="311" alt="1 pw" src="https://user-images.githubusercontent.com/102954934/214165425-6b6a38ae-8242-425d-a25a-30707788f266.png">
+
+Here I first used `ls` to list all the files. This one was quite tricky as the file name was `-`
