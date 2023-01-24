@@ -2,7 +2,7 @@
 
 ## 1
 
-A summary of the given topic.
+A summary of the given topic and other assignments.
 
 **Intrusion-Kill-Chain:**
 - A kill chain is a systematic way to confront an adversary and produce the desired results. In this research, a novel kill chain model for invasions is presented.
@@ -108,3 +108,8 @@ As an ex-javascript student this was fairly easy and understandable for me. I ha
 After figuring out the magic number this was a piece of cake for me. But i found something intersting, I tried findind the value without actually pressing the go button and the value i got was `foo` but when i press the button then the value to changed to `numbers`.
 
 I am pretty excited about the course. It is interesting and fun. 
+
+
+## List of sources
+
+- 
