@@ -103,7 +103,7 @@ _ **General: Developer tools**
 
 As an ex-javascript student this was fairly easy and understandable for me. I had no trouble with this part.
 
-<img width="599" alt="dev tools last" src="https://user-images.githubusercontent.com/102954934/214176560-8333b200-acd6-4c65-b351-50686ac8af24.png">
+<img width="601" alt="dev tools laast" src="https://user-images.githubusercontent.com/102954934/214187751-e756685a-4a7f-4a06-be2d-4b980f12b6b0.png">
 
 After figuring out the magic number this was a piece of cake for me. But i found something intersting, I tried findind the value without actually pressing the go button and the value i got was `foo` but when i press the button then the value to changed to `numbers`.
 
