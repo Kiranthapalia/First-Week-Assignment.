@@ -117,3 +117,4 @@ I am pretty excited about the course. It is interesting and fun.
 - https://terokarvinen.com/2021/install-debian-on-virtualbox/
 - https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/
 - https://www.youtube.com/watch?v=ff2Au8BIy_A&t=249s
+- https://medium.com/@Kamal_S/owasp-webgoat-general-lesson-solutions-of-http-basics-http-proxies-developer-tools-5f62c03a7872
