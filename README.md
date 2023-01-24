@@ -112,4 +112,8 @@ I am pretty excited about the course. It is interesting and fun.
 
 ## List of sources
 
-- 
+- (https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdfl)
+- https://terokarvinen.com/2020/command-line-basics-revisited/
+- https://terokarvinen.com/2021/install-debian-on-virtualbox/
+- https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/
+- https://www.youtube.com/watch?v=ff2Au8BIy_A&t=249s
